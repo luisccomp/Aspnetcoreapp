@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "maker": "Bethesda Softworks",
+    "img": "https://i.ytimg.com/vi/f4JuigM40es/maxresdefault.jpg",
+    "url": "https://elderscrolls.bethesda.net/en/skyrim",
+    "title": "The Elder Scrolls V: Skyrim",
+    "description": "The Elder Scrolls V: Skyrim, the 2011 Game of the Year, is the next chapter in the highly anticipated Elder Scrolls saga."
+  },
+  {
+    "id": 2,
+    "maker": "Bethesda Softworks",
+    "img": "https://images.ctfassets.net/rporu91m20dc/48FOwmEHJwz03qpd42nzwr/4f08db516cdcd51dc44d3c0474484b3b/doom_eternal_bg_date_m_w_launch.jpg",
+    "url": "https://bethesda.net/game/doom",
+    "title": "Doom Eternal",
+    "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity."
+  },
+  {
+    "id": 3,
+    "maker": "Gearbox Software",
+    "img": "https://observatoriodegames.uol.com.br/wp-content/uploads/2020/02/ed7fd04016922b01ae7c0fd3a8eb2719c3152c72.jpg",
+    "url": "https://borderlands.com/en-US/",
+    "title": "Borderlands 3",
+    "description": "At the hard edge of the galaxy lies a group of planets ruthlessly exploited by militarized corporations. Brimming with loot and violence, this is your home—the Borderlands."
+  },
+  {
+    "id": 4,
+    "maker": "Square Enix Co.",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71vXOkjuRZL.jpg",
+    "url": "https://ffvii-remake.square-enix-games.com/en-us?_ga=2.177061669.1612349409.1589492910-801431206.1589492910",
+    "title": "Final Fantasi VII - Remake",
+    "description": "By exploiting this resource through their Mako Reactors, the Shinra Electric Power Company has all but seized control of the entire world. A ragtag group of idealists, known as Avalanche, are one of the last bastions of resistance."
+  },
+  {
+    "id": 5,
+    "maker": "Haydee Interactive",
+    "img": "https://steamcdn-a.akamaihd.net/steam/apps/530890/capsule_616x353.jpg?t=1552306158",
+    "url": "https://store.steampowered.com/app/530890/Haydee/",
+    "title": "Haydee",
+    "description": "Haydee is a hardcore old-style metroidvania mixed with modern-day third person shooter and platformer mechanics."
+  }
+]
